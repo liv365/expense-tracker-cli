@@ -1,0 +1,16 @@
+{
+  "name": "expense-tracker-cli",
+  "version": "1.0.0",
+  "description": "A typed CLI expense tracker with a generic Result<T, E> type for error handling",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
