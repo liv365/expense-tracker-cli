@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 1,
+    "description": "Lunch",
+    "amount": 250,
+    "date": "2026-09-06T11:34:58.296Z"
+  },
+  {
+    "id": 2,
+    "description": "Dinner",
+    "amount": 40,
+    "date": "2026-09-06T11:35:10.456Z"
+  },
+  {
+    "id": 3,
+    "description": "Groceries",
+    "amount": 42.75,
+    "date": "2026-09-06T11:36:22.178Z"
+  },
+  {
+    "id": 4,
+    "description": "Bus ticket",
+    "amount": 2.5,
+    "date": "2026-09-06T11:36:22.224Z"
+  },
+  {
+    "id": 5,
+    "description": "Netflix subscription",
+    "amount": 15.99,
+    "date": "2026-09-06T11:36:22.270Z"
+  },
+  {
+    "id": 6,
+    "description": "Coffee",
+    "amount": 4.5,
+    "date": "2026-09-06T11:36:22.312Z"
+  }
+]
